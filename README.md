@@ -12,9 +12,10 @@ Features:
 	-Stat-tracking system utilizing callback functions
 
 To install:
-	- Download Goblins.exe and "words.txt"
 	
-Note that in order for Goblins.exe to run, the "words.txt" file must be in the same folder as it.
+	-Download Goblins.exe and "words.txt"
+	
+Please note that in order for Goblins.exe to run, the "words.txt" file must be in the same folder as it.
 
 ========
 
