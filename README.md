@@ -6,6 +6,7 @@ A console, text game where you fight goblins in a dungeon, a la "The Typing of t
 I built this to experiment with making an event-driven program from scratch. 
 
 Features:
+	
 	-Adaptive difficulty system that adjusts enemy spawns, word length based on player performance
 	-Spell checking and timing systems for player-entered words
 	-Stat-tracking system utilizing callback functions
